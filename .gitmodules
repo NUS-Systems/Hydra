@@ -1,3 +1,6 @@
 [submodule "kernels/Hydra-v4.17"]
 	path = kernels/Hydra-v4.17
 	url = https://github.com/NUS-Systems/Hydra-v4.17.git
+[submodule "kernels/Hydra-v6.5"]
+	path = kernels/Hydra-v6.5
+	url = https://github.com/NUS-Systems/Hydra-v6.5.git
